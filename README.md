@@ -14,4 +14,4 @@ Desarrollo de arquitecturas eficientes, modelado de datos y sistemas escalables.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/raulregatos) · [raulregatos@gmail.com](mailto:raulregatos@gmail.com)
+[LinkedIn](https://linkedin.com/in/raulregatos) · [raulregatos@gmail.com]
